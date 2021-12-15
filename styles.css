@@ -1,0 +1,25 @@
+h1{
+	color: #C36A2D;
+	
+}
+tr{
+	color: black;
+}
+th{
+	color: black;
+}
+
+h3{
+	color:  darkred;
+	font-family: lucida calligraphy;
+	font-size: 20px;
+	line-height: 1.6em;
+	margin: 0;
+}
+p em{
+	color:  black;
+	font-family: Times new roman;
+	font-size: 20px;
+	line-height: 1.6em;
+	margin: 0;
+}
